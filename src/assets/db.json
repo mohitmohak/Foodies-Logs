@@ -1,0 +1,53 @@
+{
+    "blog": [{
+            "username": "Mohit Mohak",
+            "title": "Russian Chicken Kiew",
+            "id": 1,
+            "date": "31-Mar-2021",
+            "blog": "Traditionally classic Chicken Kiev is made from whole chicken breast – it is separated from whole chicken with the wing bone, which at the end."
+        },
+        {
+            "username": "Mohit Mohak",
+            "title": "Holodets (Ukrainian Aspic)",
+            "id": 2,
+            "date": "31-Mar-2021",
+            "blog": "Kholodets (or holodets) is a traditional dish in various east and west European cuisines (Russian Ukrainian, Polish, and many others). The recipe for kholodets is very simple but quite time."
+        },
+        {
+            "username": "Mohit Mohak",
+            "title": "Homemade Chicken Nuggets with Gouda Cream",
+            "id": 3,
+            "date": "31-Mar-2021",
+            "blog": "To get started, forget everything you know, think you know or have read about commercial chicken nuggets ! I’m very attentive and aware of what little ones eat, so don’t."
+        },
+        {
+            "username": "Mohit Mohak",
+            "title": "Coconut Pineapple Cake",
+            "id": 4,
+            "date": "31-Mar-2021",
+            "blog": "How to Make Coconut Pineapple Cake: Preheat the oven to 180°C Grease an 8-inch square baking pan with oil and line with a parchment paper sling. Combine the egg yolks."
+        },
+        {
+            "username": "Mohit Mohak",
+            "title": "Tahini & Lemon Asparangurs Soup",
+            "id": 5,
+            "date": "31-Mar-2021",
+            "blog": "How to Make the Tahini and Lemon Asparangurs Soup: Heat a large soup pot over medium heat. Once hot, add the olive oil and onion, stir and cook for 2-3 minutes."
+        }
+    ],
+    "contact": [{
+            "id": 1,
+            "username": "Mohit Mohak",
+            "email": "mohitmohak98@gmail.com",
+            "subject": "Changing the contents",
+            "message": "Change title from Spaghaati to Tahini."
+        },
+        {
+            "id": 2,
+            "username": "Mohit Shrivastava",
+            "email": "shrivastavamohit123@yahoo.in",
+            "subject": "Food Blogging",
+            "message": "Not"
+        }
+    ]
+}

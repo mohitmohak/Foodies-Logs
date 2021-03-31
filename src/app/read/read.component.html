@@ -1,0 +1,22 @@
+<section class="read">
+
+    <p>No Content available! Add some data to view</p>
+    <div class="container">
+        <div class="hello card-body" *ngFor="let cs of blogdata">
+            <div class="card text-center shadow-lg">
+                <div class="card-header">
+                    {{cs.username}}
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">{{cs.title}}</h5>
+                    <p class="card-text">{{cs.blog}}</p>
+                </div>
+                <div class="card-footer text-muted">
+                    <button type="button" (click)="delete(cs.id)" class="btn btn-danger">Delete</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
